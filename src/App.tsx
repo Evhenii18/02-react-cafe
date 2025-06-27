@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import CafeInfo from "./components/CafeInfo/CafeInfo";
 import VoteOptions from "./components/VoteOptions/VoteOptions";
 import VoteStats from "./components/VoteStats/VoteStats";
