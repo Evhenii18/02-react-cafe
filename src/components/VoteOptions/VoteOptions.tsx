@@ -29,3 +29,5 @@ function VoteOptions({ onVote, onReset, canReset }: VoteOptionsProps) {
 }
 
 export default VoteOptions;
+
+// This component provides buttons for voting options and a reset button if applicable.
